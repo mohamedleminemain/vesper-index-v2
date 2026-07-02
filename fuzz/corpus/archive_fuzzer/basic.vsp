@@ -1,0 +1,13 @@
+VSP1
+DOC 1 north 00112233
+KEY 2 aabbccdd
+KEYLEASE 4 2 ingest
+RENAME 1 atlas
+VIEW 1
+PAGE 5 aabbccdd
+CACHE 5 2
+COMPACT
+CURSOR 5 1
+KEYAUDIT active
+MANIFEST
+SCAN 0

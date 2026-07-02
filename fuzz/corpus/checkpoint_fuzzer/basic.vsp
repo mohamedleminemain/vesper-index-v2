@@ -1,0 +1,8 @@
+VSP1
+DOC 9 north 01020304
+PAGE 7 aabbccdd
+CHECKPOINT 41
+INSPECT storage
+CHECKVIEW 41
+POLICY checkpoints max 65535
+POLICYCHECK checkpoints max

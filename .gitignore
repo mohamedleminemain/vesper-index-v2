@@ -1,0 +1,7 @@
+/build/
+/out/
+/*.o
+/vesper-replay
+/vesper-engine-tests
+*.profraw
+*.log

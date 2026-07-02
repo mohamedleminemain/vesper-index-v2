@@ -1,0 +1,6 @@
+language: c++
+fuzz_targets:
+  - archive_fuzzer
+  - query_fuzzer
+  - checkpoint_fuzzer
+  - replay_fuzzer

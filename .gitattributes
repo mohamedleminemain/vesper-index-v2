@@ -1,0 +1,6 @@
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.sh text eol=lf
+*.patch text eol=lf
+*.yaml text eol=lf
+*.vsp text eol=lf
